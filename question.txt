@@ -1,0 +1,18 @@
+What's so great about kdb?
+What is the numerical type of a date?
+What is the character type of a minute?
+What is the difference between 0W and 0w (think about types)?
+Which .Q would give me a long infinity?
+Why does 0N have type -7h?
+What does .z.pi show?
+What does .z.bm do?
+How does the feed handler push data down to the tickerplant?
+Write a function which would give me an output like; f[3]=(1;1 2;1 2 3)?
+How could I generate 10 random numbers between 1 and 100?
+Hoow could I do the same above but make sure each number is distinct?
+How would you generate 50 random strings of length 3?
+How would you find a slow subscriber?
+How would you read in a csv file to kdb?
+Describe some good practices for coding?
+How would I send an asynchronous message to handle h?
+How would I execute an as of join for joining t1 and t2 by `sym?
